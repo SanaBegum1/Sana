@@ -1,0 +1,1 @@
+devolep a java program to check if two person objects are having the same age or not by overriding equals method
